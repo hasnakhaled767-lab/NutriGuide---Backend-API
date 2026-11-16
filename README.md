@@ -36,3 +36,5 @@
    ```
 
 
+## Author & Copyright
+Developed by **Hasnaa Khaled** © 2026. All rights reserved.
